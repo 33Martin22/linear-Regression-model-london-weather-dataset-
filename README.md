@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Martin Kioko
-- 👀 I’m interested in Data analysis,Web applications and Cloud PLatforms 
-- 🌱 I’m currently learning  Data analsis with Python,R,Excel,PowerBiand Tableau and Web applications with html,css ,javascript and php
+- 👀 I’m interested in Data analytics,Data visualization and Cloud PLatforms 
+- 🌱 I’m currently learning  Data analsis with Python,R,Excel,PowerBiand Tableau 
 - 💞️ I’m looking to collaborate on  Machine learning,Web aplications and Exploratory Data Analysis
 - 📫 How to reach me ...kiokomartin27@gmail.com,@mrwiseman on X 
 - 😄 Pronouns: he/him
